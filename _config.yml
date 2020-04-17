@@ -30,7 +30,7 @@ twitter_username: ravikarrii
 github_username:  ravikarrii
 
 # Build settings
-theme: hitchens-theme
+theme: minima
 plugins:
   - jekyll-feed
 
