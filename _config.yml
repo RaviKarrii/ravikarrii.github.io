@@ -30,7 +30,7 @@ twitter_username: ravikarrii
 github_username:  ravikarrii
 
 # Build settings
-theme: minima
+theme: Purelog
 plugins:
   - jekyll-feed
 
