@@ -28,7 +28,7 @@ twitter_username: ravikarrii
 github_username:  ravikarrii
 
 # Build settings
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: pages-themes/cayman
 plugins:
   - jekyll-feed
   - jekyll-include-cache
