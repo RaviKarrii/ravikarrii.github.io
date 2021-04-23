@@ -28,7 +28,7 @@ twitter_username: ravikarrii
 github_username:  ravikarrii
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
