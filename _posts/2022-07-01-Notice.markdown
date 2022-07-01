@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Notice"
+date:   2022-06-01 04:26:00 +0530
+categories: NOTICE
+---
+
+Dear Readers, Thanks for checking out my blog. All the opinions/posts made on this blog is MY PESONAL OPINIONS and are not made in any way to hurt someone. 
+
+Take everything with a grain of salt. Happy Reading
